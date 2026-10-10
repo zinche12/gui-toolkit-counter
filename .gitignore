@@ -1,0 +1,4 @@
+pyqt/__pycache__/
+pyqt/*.py[cod]
+wpf/bin/
+wpf/obj/
